@@ -152,7 +152,6 @@ body span {
 
 #produto {
   display: inline-flex;
-  border-top: 0.5px solid lightgrey;
   justify-content: center;
   margin: 1.5rem;
 }
